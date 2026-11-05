@@ -4,3 +4,4 @@ for i in h:
     t=t+(i.upper())
     
 print(t)
+print(t)
